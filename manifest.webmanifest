@@ -1,0 +1,25 @@
+{
+  "name": "Shopling",
+  "short_name": "Shopling",
+  "description": "Veckans erbjudanden och familjens gemensamma shoppingkasse.",
+  "id": "/shopling-pages/",
+  "start_url": "/shopling-pages/",
+  "scope": "/shopling-pages/",
+  "display": "standalone",
+  "background_color": "#f7f5ef",
+  "theme_color": "#18322b",
+  "icons": [
+    {
+      "src": "/shopling-pages/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/shopling-pages/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
